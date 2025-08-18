@@ -1,8 +1,10 @@
 streamlit==1.36.0
-matplotlib==3.7.2
+matplotlib==3.8.0
 pandas==2.0.3
 numpy==1.26.4
 pickle-mixin==1.0.2
+packaging==24.1
+pillow==10.3.0
 
 
 
